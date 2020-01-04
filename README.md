@@ -1,6 +1,6 @@
 # artificio: A suite of computer vision deep learning algorithms
 
-We provide here a suite of deep learning computer vision algorithms that are ready for real-world use:
+Suite of deep learning computer vision algorithms that are ready for real-world use:
 
 ### [Similar Image Finder (using Transfer Learning)](https://github.com/ankonzoid/artificio/tree/master/similar_images_TL)
 
